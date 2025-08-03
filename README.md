@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NischalKeshav
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python and pycharm
+- 👀 I’m interested in AI, and frontend design
+- 🌱 I’m currently learning Javascript and Webdesign
 - 💞️ I’m looking to collaborate on new games
-- 📫 How to reach me keshavn@bentonvillek12.org
+- 📫 How to reach me nischalkeshav.official@gmail.com
 
 
 <!---
