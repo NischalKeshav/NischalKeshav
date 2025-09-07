@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NischalKeshav
 - 👀 I’m interested in AI, and frontend design
-- 🌱 I’m currently learning Javascript and Webdesign
+- 🌱 I’m currently learning Javascript and Web design
 - 💞️ I’m looking to collaborate on new games
 - 📫 How to reach me nischalkeshav.official@gmail.com
 
