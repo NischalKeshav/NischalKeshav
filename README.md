@@ -1,7 +1,7 @@
-#"Skills"
+# "Skills"
   
--    Hi, I’m not @NischalKeshav
--    I’m interested in AS(Artificial Stupidity), and frontend development(Regular Stupidity)
+-    Hi, I'm --look 10cm to the left bozo my name is right there.
+-    I’m interested in AI(Artificial StupIdity), and frontend development(Regular Stupidity)
 -    I’m looking to avoid working with everyone
 -    How to get me to ignore you: nischalkeshav.official@gmail.com
 
